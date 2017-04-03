@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Volumes/Untitled/storyline-react/ios/build/Build/Products/Debug-iphonesimulator/Pods_Storyline.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Storyline-umbrella.h",
+          'external-contents': "/Volumes/Untitled/storyline-react/ios/Pods/Target Support Files/Pods-Storyline/Pods-Storyline-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Storyline-Swift.h",
+          'external-contents': "/Volumes/Untitled/storyline-react/ios/build/Build/Products/Debug-iphonesimulator/Pods_Storyline.framework/Headers/Pods_Storyline-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/Untitled/storyline-react/ios/build/Build/Products/Debug-iphonesimulator/Pods_Storyline.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/Untitled/storyline-react/ios/build/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Storyline.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

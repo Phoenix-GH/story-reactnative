@@ -1,0 +1,6 @@
+framework module Pods_StorylineTests {
+  umbrella header "Pods-StorylineTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

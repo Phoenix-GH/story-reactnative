@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/andy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-0b0d55eac251596332154167ab8855b48437f31f.jar" />
+    </item>
+    <item
+        jar="/Users/andy/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-10e9cf0271c1f4420f5214a1e0192ce0dd8cd685.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-41bcaede36bbbbaf84d1c5eaa2c65013152d6640.jar" />
+    </item>
+    <item
+        jar="/Users/andy/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.2.0/73a02117620b6cc7683a1ed6ae24c2f36e2a715/nanohttpd-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="073a02117620b6cc7683a1ed6ae24c2f36e2a715">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/nanohttpd-2.2.0-2cbb1c2ed3d9a945a6262b40ae21e64aebff271b.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-d23305f279d22344131134d9e298493f4605397f.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-eab06e9d8c5932c9aa987e4d7f7a64053cb0e036.jar" />
+    </item>
+    <item
+        jar="/Users/andy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-44b60733a2a8ad214c5a92ee89d97b06761f2b3d.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-3f3aeb4efb598289d8a9b01c9c0ed02cafe4bff3.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-4035af0b99a365d919c6b30371bae21a7acf3104.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/Storyline/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="584ef06c63123b3d8e1128f54b58bbcaaacb27b3">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-a82ffb0766fc46c1ecec8566dae0c86345667fc5.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-a23abfc26a71bd7dcdbe337388c98d2f387b61c2.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-08098eb17fb6430a4c8c3925ef1f022c9759144c.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-954b16e1e8e921a818c22beb14780416a88b8c76.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/Storyline/react-native-billing/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4752e1e64278710161bbbf0a76002c6fca1ea522">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-c883e17146c633a5e5b27f7e33383cf262889546.jar" />
+    </item>
+    <item
+        jar="/Users/andy/.gradle/caches/modules-2/files-2.1/com.anjlab.android.iab.v3/library/1.0.36/abc65224dad743a5f3269c7f22c934fcf94aadc0/library-1.0.36.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="abc65224dad743a5f3269c7f22c934fcf94aadc0">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/library-1.0.36-c36f9386acde5c9636eaa032ba997cf1661a9c3d.jar" />
+    </item>
+    <item
+        jar="/Users/andy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-9642a5ad32e747b754284827c014bf1cf23b6a98.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-2630487360cc71076891e2c214e538f1a457c9b9.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.10/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c6792fb346d4f11b5b9e6c1a5df3a99c140a9e70">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-74d0b1786e39dfe5b73a82900c8d19157bb817c0.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/Storyline/react-native-firebase-crash-report/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3e47c344c56c50995798e65b27cc9c679951cbfa">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-0241d64bdb565179e69f29809fa15960fd28fc1b.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-57b2fedc2d49106e456aa3241cbdd134f9b65bd9.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-f3f919b145d836fcdb01368050f7bedad4324457.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-0c6ec709ae11ed2145ac2254b9d585805193b9f2.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/Storyline/realm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65c96050c1dba5c8b86ae772eafe233fb650b3d0">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-3319bcf42ead3747e6152f5a8e6c059ff23b6e0d.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-6ec4e5d33f9ebcbd9a6f8e0f8c400bb66f6eb700.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-b5a9aff8bd5a36af48faf79e6d4385cd1a726f33.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-06a0c6718da63c35e90e12211f4bbbf12a89d10f.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/Storyline/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c3eb5f2c4dfceae47615b7aef641d7c8a917dad">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-98f7cd45f8fb86665ed7dca58c5cbf07ed411de7.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/Storyline/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fdb6cf3ff9e79e81474f4753c14e7f8bf159c31">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-a2d59ad0621065134ff8033c2c9b78f5ebb0203e.jar" />
+    </item>
+    <item
+        jar="/Users/andy/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-d828e70eb8bfba217dfa5867eab10adb8523f71e.jar" />
+    </item>
+    <item
+        jar="/Users/andy/Library/Developer/Xamarin/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-e36644c9efffb2abc2b396ddddd1e01517bad78c.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-5a8f55b9dacf9e7537af0c22c6161372acf96001.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/Storyline/react-native-firebase-analytics/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d92c873e7c39ad518052e05d064dc670fd126db8">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-49df2cb9b8ad65da3e2d7e59e82077e6dec9231b.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-6b3e756c58f857c6eb5d1e74f8226a8c9c84fd4d.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-e7a59813bf5f7ef4ad660b2993df22b82a01eedb.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-34a2071caa810b98646290f69dfa11aca61399e6.jar" />
+    </item>
+    <item
+        jar="/Users/andy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-b806116cf9a1c1bf35f00018b066a1413d4f7305.jar" />
+    </item>
+    <item
+        jar="/Users/andy/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-f79a495123af9fec551dd824bf53944d1c41e778.jar" />
+    </item>
+    <item
+        jar="/Users/andy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-4b071b2cbb46afe9506fbf019b515b867e7daa9f.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-d799861558f7c11b6c7ea575fa083d7a9df93439.jar" />
+    </item>
+    <item
+        jar="/Volumes/Untitled/storyline-react/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Volumes/Untitled/storyline-react/android/app/build/intermediates/pre-dexed/debug/classes-f6c74dea10f9878a06ba3534c610c06f1b5622d0.jar" />
+    </item>
+
+</items>
